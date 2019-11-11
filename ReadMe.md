@@ -1,6 +1,8 @@
-#CHIME
+# Source Code for CHIME
 
-The Quick Instruction for Running CHIME_release.jar
+The Quick Instruction for Running demo.
+
+Unzip demo.zip file in the folder. The executable jar program is CHIME_release.jar.
 
 The Demo Instruction is Instruction.ppt
 
