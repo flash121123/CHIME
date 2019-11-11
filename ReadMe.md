@@ -2,7 +2,7 @@
 
 The Quick Instruction for Running demo.
 
-Unzip demo.zip file in the folder. The executable jar program is CHIME_release.jar.
+The demo is in jar folder. The executable jar program is CHIME_release.jar.
 
 The Demo Instruction is Instruction.ppt
 
