@@ -37,7 +37,7 @@ Note: Program generated motif candidat uses “getmoitf.m” to rank.
 If you found the code is useful, please cite the paper
 
 ```
-  @INPROCEEDINGS{chime2018, 
+  @INPROCEEDINGS{chime2019, 
                  author={Y. Gao and J. Lin}, 
                  booktitle={2019 IEEE International Conference on Data Mining (ICDM)}, 
                  title={Discovering Subdimensional Motifs of Different Lengths in Large-Scale Multivariate Time Series}, 
